@@ -1,3 +1,3 @@
 git status
-git diff
 git add
+git diff 
